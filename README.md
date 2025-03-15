@@ -1,44 +1,44 @@
-# NLP Model Implementations
+# Implementasi Model NLP
 
-This repository contains three Jupyter notebooks demonstrating different NLP model implementations: Transformers, Encoder-Decoder, and Word2Vec.
+Repositori ini berisi tiga notebook Jupyter yang mendemonstrasikan implementasi berbagai model NLP: Transformers, Encoder-Decoder, dan Word2Vec.
 
-## Project Descriptions
+## Deskripsi Proyek
 
-### 1. Transformers Implementation
+### 1. Implementasi Transformers
 - **Notebook**: `Project_Transformers.ipynb`
-- **Description**: Explores key components of Transformer architecture and its implementation using TensorFlow/Keras.
-- **Code Cells**: 10
-- **Markdown Cells**: 5
-- **Initial Code**: TensorFlow and Keras library imports.
+- **Deskripsi**: Menjelaskan komponen utama dalam arsitektur Transformer serta implementasinya menggunakan TensorFlow/Keras.
+- **Jumlah Sel Kode**: 10
+- **Jumlah Sel Markdown**: 5
+- **Kode Awal**: Import library TensorFlow dan Keras.
 
-### 2. Encoder-Decoder Implementation
+### 2. Implementasi Encoder-Decoder
 - **Notebook**: `Project_Encoder_Decoder.ipynb`
-- **Description**: Discusses Encoder-Decoder architecture and its usage in NLP tasks.
-- **Code Cells**: 11
-- **Markdown Cells**: 5
-- **Initial Code**: TensorFlow and Keras library imports.
+- **Deskripsi**: Membahas arsitektur Encoder-Decoder dan penggunaannya dalam tugas NLP.
+- **Jumlah Sel Kode**: 11
+- **Jumlah Sel Markdown**: 5
+- **Kode Awal**: Import library TensorFlow dan Keras.
 
-### 3. Word2Vec Implementation
+### 3. Implementasi Word2Vec
 - **Notebook**: `Project_Word2Vec.ipynb`
-- **Description**: Implements Word2Vec for word representation in NLP.
-- **Code Cells**: 19
-- **Markdown Cells**: 7
-- **Initial Code**: Uses Google Colab (drive mount).
+- **Deskripsi**: Implementasi Word2Vec untuk representasi kata dalam NLP.
+- **Jumlah Sel Kode**: 19
+- **Jumlah Sel Markdown**: 7
+- **Kode Awal**: Menggunakan Google Colab (drive mount).
 
-## Requirements
-Ensure the following dependencies are installed before running the notebooks:
+## Persyaratan
+Pastikan bahwa dependensi berikut telah terinstal sebelum menjalankan notebook:
 ```bash
 pip install tensorflow gensim numpy pandas matplotlib
 ```
 
-## How to Use
-1. Open each notebook in Jupyter Notebook or Google Colab.
-2. Run the cells sequentially to understand and experiment with the model implementations.
-3. Modify the code as needed to explore different hyperparameters and configurations.
+## Cara Menggunakan
+1. Buka setiap notebook di Jupyter Notebook atau Google Colab.
+2. Jalankan sel secara berurutan untuk memahami dan bereksperimen dengan implementasi model.
+3. Modifikasi kode sesuai kebutuhan untuk mengeksplorasi berbagai hiperparameter dan konfigurasi.
 
-## Contributions
-Feel free to contribute by improving implementations or adding new NLP models.
+## Kontribusi
+Silakan berkontribusi dengan meningkatkan implementasi atau menambahkan model NLP baru.
 
-## License
-This project is open-source and available for educational and research purposes.
+## Lisensi
+Proyek ini bersifat open-source dan tersedia untuk keperluan pendidikan serta penelitian.
 
